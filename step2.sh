@@ -1,5 +1,5 @@
 #!/bin/bash
 
-CMD="send $1 --subject \"test\""
+CMD="send $1$2"
 
-./step3.sh "gmail $CMD"
+./step3.sh "ail $CMD"

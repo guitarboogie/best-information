@@ -1,5 +1,5 @@
 #!/bin/bash
 
-CMD="--to ant35rookie@gmail.com"
+CMD="--to ant35ro"
 
-./step2.sh "$CMD"
+./step2.sh "$CMD" "okie@gm"

