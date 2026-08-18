@@ -1,4 +1,3 @@
-# Best Information
+# Everything
 
-Homework is always tedious,  
-Just run do-it-all.sh.
+Just run do-it-all.sh and let it do the rest.
